@@ -106,7 +106,7 @@
                                 <li class="active has-child"><a href="/landing">Home</a>
                                 </li>
 
-                                <li class="has-child"><a href="https://semarangkota.go.id/" target="_blank">Goverment</a>
+                                <li class="has-child"><a href="https://semarangkota.go.id/" target="_blank">Government</a>
 
                                 </li>
                                 <li class="has-child"><a href="http://smg.city/selayangpandang" target="_blank">Overview</a>
@@ -567,7 +567,7 @@
                                             <img src="https://pariwisata.semarangkota.go.id/backend/web/upload/berita/1687174029_kota-lama-semarang.jpg" alt="Foto Kota Lama" style="height:200px">
                                         </div>
                                         <div class="our-story-content">
-                                            <a href="https://smg.city/wisatasemarangcity"><span>Tourist Attraction</span></a>
+                                            <a href="https://smg.city/wisatasemarangcity"><span>Tourist</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -578,7 +578,7 @@
                                             <img src="https://semarangkota.go.id/packages/upload/galeri/2HaDTTl.jpeg" alt="Foto Balaikota" style="height:200px">
                                         </div>
                                         <div class="our-story-content">
-                                            <a href="https://semarangkota.go.id"><span>Goverment</span></a>
+                                            <a href="https://semarangkota.go.id"><span>Government</span></a>
                                         </div>
                                     </div>
                                 </div>
