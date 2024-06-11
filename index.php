@@ -16,7 +16,7 @@
     <link rel="shortcut icon" href="https://semarangkota.go.id/assets/img/favicon.png" type="image/x-icon" />
 
     <!-- PAGE TITLE HERE -->
-    <title>Landing Page Short Link | Dinas Kesehatan Kota Semarang</title>
+    <title>Dinas Kesehatan Kota Semarang</title>
 
     <!-- MOBILE SPECIFIC -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -25,6 +25,7 @@
     <!-- BOOTSTRAP STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <!-- FONTAWESOME STYLE SHEET -->
+    <!-- <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" /> -->
     <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
     <!-- OWL CAROUSEL STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
@@ -85,7 +86,7 @@
                         <div class="logo-header">
                             <div class="logo-header-inner logo-header-one">
                                 <a href="/landing">
-                                    <img src="images/logo-dkk.png" alt="logo_dkk" width="200px" height="90px">
+                                    <img src="images/logo-dkk.png" alt="logo_dkk" width="250px" height="112.5px">
                                 </a>
                             </div>
                         </div>
@@ -102,13 +103,16 @@
                         <div class="nav-animation header-nav navbar-collapse collapse d-flex justify-content-center">
 
                             <ul class=" nav navbar-nav">
-                                <li class="active has-child"><a href="javascript:;">Home</a>
+                                <li class="active has-child"><a href="/landing">Home</a>
                                 </li>
 
                                 <li class="has-child"><a href="https://semarangkota.go.id/" target="_blank">Goverment</a>
 
                                 </li>
-                                <li class="has-child"><a href="https://semarangkota.go.id/" target="_blank">Overview</a>
+                                <li class="has-child"><a href="http://smg.city/selayangpandang" target="_blank">Overview</a>
+
+                                </li>
+                                <li class="has-child"><a href="/landing#material">Material</a>
 
                                 </li>
 
@@ -279,11 +283,6 @@
                                 border-width:0px 0px 100px 0px;"></div>
 
                             </li>
-
-
-
-
-
                         </ul>
                         <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
                     </div>
@@ -291,7 +290,6 @@
 
             </div>
             <!-- SLIDER END -->
-
             <!-- ABOUT ONE SECTION START -->
             <div class="section-full p-t120 p-b90 bg-no-repeat bg-no-repeat bg-bottom-center bg-gray-light">
                 <div class="about-section-one">
@@ -301,8 +299,8 @@
 
                                 <div class="col-lg-6 col-md-12 m-b30">
                                     <div class="about-gym-one">
-                                        <div class="about-gym-one-media"><img src="images/intro-pic.png" alt=""></div>
-                                        <div class="outline-text">Strong</div>
+                                        <div class="about-gym-one-media"><img src="images/info.png" alt=""></div>
+                                        <div class="outline-text">Infographic</div>
                                     </div>
                                 </div>
 
@@ -315,42 +313,42 @@
                                                 <div>About US</div>
 
                                             </div>
-                                            <h2>Give A Shape of Your Body</h2>
-                                            <p>This also meant we needed to provide a learning environment run by
-                                                experienced and successful coaches. However, our most important goal
-                                                was to create a welcoming atmosphere and community in which everyone
-                                                feels a sense of belonging.</p>
+                                            <h2>SANPIISAN PROGRAM</h2>
+                                            <p>Outreach Service for Maternal Care and Stunted Children Semarang City</p>
+                                            <p>
+                                                The high maternal mortality rate from year to year is one of the health problems that Semarang City must face. The peak in 2015, Semarang City became the second-highest maternal mortality rate in Central Java. In that year, the Semarang City Government was encouraged to create the innovation Sayangi Dampingi Ibu Anak Kota Semarang (Sanpiisan) / Outreach Service for Maternal Care and Stunted Children Semarang City.
+                                            </p>
                                         </div>
                                         <!-- TITLE END-->
 
                                         <div class="about-one">
                                             <div class="wt-icon-box-wraper left bg-black m-b30">
                                                 <div class="wt-icon-box-sm site-bg-gray">
-                                                    <span class="icon-cell site-bg-dark"><i class="flaticon-six-pack"></i></span>
+                                                    <span class="icon-cell site-bg-dark"><i class="fa fa-user"></i></span>
                                                 </div>
                                                 <div class="icon-content">
-                                                    <h5 class="wt-tilte">Full-Body Strength</h5>
-                                                    <p>Train with the best experts in bodybuilding field.</p>
+                                                    <h5 class="wt-tilte">Women Empowerment</h5>
+                                                    <p>Improving women's empowerment in assisting pregnant women in the community.</p>
                                                 </div>
                                             </div>
 
                                             <div class="wt-icon-box-wraper left bg-black m-b30">
                                                 <div class="wt-icon-box-sm site-bg-gray">
-                                                    <span class="icon-cell site-bg-dark"><i class="flaticon-stationary-bicycle"></i></span>
+                                                    <span class="icon-cell site-bg-dark"><i class="fa fa-hospital-o"></i></span>
                                                 </div>
                                                 <div class="icon-content">
-                                                    <h5 class="wt-tilte">Lean Machines</h5>
-                                                    <p>Our personal trainers will help you find a perfect workout.</p>
+                                                    <h5 class="wt-tilte">Healthcare for Pregnant Women</h5>
+                                                    <p>Facilitate access to health services for pregnant women.</p>
                                                 </div>
                                             </div>
 
                                             <div class="wt-icon-box-wraper left bg-black m-b30">
                                                 <div class="wt-icon-box-sm site-bg-gray">
-                                                    <span class="icon-cell site-bg-dark"><i class="flaticon-exercise"></i></span>
+                                                    <span class="icon-cell site-bg-dark"><i class="fa fa-child"></i></span>
                                                 </div>
                                                 <div class="icon-content">
-                                                    <h5 class="wt-tilte">Power Yoga</h5>
-                                                    <p>Uniquely sequenced class work to heat and challenge the body </p>
+                                                    <h5 class="wt-tilte">Reduction in Maternal and Child mortality</h5>
+                                                    <p>Accelerating the reduction of maternal mortality and infant mortality in Semarang city.</p>
                                                 </div>
                                             </div>
 
@@ -358,7 +356,7 @@
 
 
 
-                                        <a href="about-1.html" class="site-button site-btn-effect">Learn More</a>
+                                        <a href="" class="site-button site-btn-effect">Learn More</a>
                                     </div>
                                 </div>
 
@@ -369,91 +367,44 @@
                 </div>
             </div>
             <!-- ABOUT ONE SECTION END -->
+            <!-- Video SECTION START -->
+            <div class="section-full site-bg-black">
 
-            <!-- SOME FACTS START -->
-            <div class="section-full p-t120 p-b120 site-bg-gray-light">
-                <div class="container">
+                <div class="container-fluid">
+
                     <div class="section-content">
-                        <div class="row justify-content-center d-flex align-items-center">
-
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <!-- TITLE START-->
-                                <div class="section-head left wt-small-separator-outer">
-                                    <div class="wt-small-separator site-text-primary">
-                                        <div class="sep-leaf-left"></div>
-                                        <div>Some Facts</div>
-                                    </div>
-                                    <h2>We always provide best fitness service for <span class="site-text-primary">25 years</span></h2>
+                        <div class="row">
+                            <div class="col-lg-6 bg-cover" style="background-image: url(images/background/foto.jpg);">
+                                <div class="video-section-first">
+                                    <a href="https://www.youtube.com/watch?v=rRkSLDTYwxo" class="mfp-video play-now-video">
+                                        <i class="icon fa fa-play"></i>
+                                        <span class="ripple"></span>
+                                    </a>
                                 </div>
-                                <!-- TITLE END-->
                             </div>
-
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="c-section-one">
-                                    <div class="row justify-content-center d-flex">
-                                        <div class="col-lg-6 col-md-6 col-sm-6 m-b30">
-                                            <div class="wt-icon-box-wraper left">
-                                                <span class="icon-md p-t10">
-                                                    <i class="flaticon-muscle"></i>
-                                                </span>
-                                                <div class="icon-content">
-                                                    <div class="m-b5 site-text-primary"><span class="counter">150</span></div>
-                                                    <div class="icon-content-info">Expert Trainer</div>
-                                                </div>
-                                            </div>
+                            <div class="col-lg-6">
+                                <div class="video-section-first-content p-tb120">
+                                    <div class="section-head left wt-small-separator-outer when-bg-dark">
+                                        <div class="wt-small-separator site-text-primary">
+                                            <div class="sep-leaf-left"></div>
+                                            <div>Profile Video</div>
                                         </div>
-
-                                        <div class="col-lg-6 col-md-6 col-sm-6 m-b30">
-                                            <div class="wt-icon-box-wraper left">
-                                                <span class="icon-md p-t10">
-                                                    <i class="flaticon-gym"></i>
-                                                </span>
-                                                <div class="icon-content">
-                                                    <div class="m-b5 site-text-primary"><span class="counter">75</span></div>
-                                                    <div class="icon-content-info">Total Branch</div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-6 col-md-6 col-sm-6 m-b30">
-                                            <div class="wt-icon-box-wraper left">
-                                                <span class="icon-md p-t10">
-                                                    <i class="flaticon-figure"></i>
-                                                </span>
-                                                <div class="icon-content">
-                                                    <div class="m-b5 site-text-primary"><span class="counter">250</span></div>
-                                                    <div class="icon-content-info">Happy Clients</div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-6 col-md-6 col-sm-6 m-b30">
-                                            <div class="wt-icon-box-wraper left ">
-                                                <span class="icon-md p-t10">
-                                                    <i class="flaticon-sport"></i>
-                                                </span>
-                                                <div class="icon-content">
-                                                    <div class="m-b5 site-text-primary"><span class="counter">18</span></div>
-                                                    <div class="icon-content-info">Experience</div>
-                                                </div>
-                                            </div>
-                                        </div>
-
+                                        <h2 class="wt-title">Women Empowerment in Semarang.</h2>
+                                        <p>The high maternal mortality rate from year to year is one of the health problems that Semarang City must face. The peak in 2015, Semarang City became the second-highest maternal mortality rate in Central Java. In that year, the Semarang City Government was encouraged to create the innovation Sayangi Dampingi Ibu Anak Kota Semarang (Sanpiisan) / Outreach Service for Maternal Care and Stunted Children Semarang City.</p>
                                     </div>
-
+                                    <!-- <a href="our-classes.html" class="site-button site-btn-effect">Learn More</a> -->
                                 </div>
 
                             </div>
 
                         </div>
-
                     </div>
+
                 </div>
             </div>
-            <!-- SOME FACTS END -->
-
+            <!-- Video SECTION END -->
             <!-- OUR TEAM START -->
-            <div class="section-full p-t120 p-b90 bg-cover" style="background-image: url(images/background/bg-dkk.png); background-position: top left; background-size: 70%; opacity: 0.7; background-repeat: repeat;">
+            <div class="section-full p-t120 p-b90 bg-cover" style="background-image: url(images/background/bg-dkk.png); background-position: top left; background-size: 70%; opacity: 0.7; background-repeat: repeat;" id="material">
 
                 <div class="container">
 
@@ -479,7 +430,7 @@
                                     <div class="wt-info">
                                         <div class="team-detail">
                                             <a href="https://smg.city/materiiklim"><span class="team-position">Show More </span></a>
-                                            <h3 class="m-t0 team-name">Health City</h3>
+                                            <h3 class="m-t0 team-name">Climate Change</h3>
                                         </div>
                                         <div class="team-social-center">
                                             <ul class="team-social-bar">
@@ -523,7 +474,7 @@
                                     <div class="wt-info">
                                         <div class="team-detail">
                                             <a href="https://smg.city/materigajahmada"><span class="team-position">Show More </span></a>
-                                            <h3 class="m-t0 team-name">Health City</h3>
+                                            <h3 class="m-t0 team-name">Healthy City</h3>
                                         </div>
                                         <div class="team-social-center">
                                             <ul class="team-social-bar">
@@ -539,7 +490,7 @@
                                 <div class="wt-team-1">
 
                                     <div class="wt-media">
-                                        <img src="images/team/img4.jpg" alt="" style="height: 367.27px;">
+                                        <img src="images/team/img5.jpg" alt="" style="height: 367.27px;">
                                     </div>
 
                                     <div class="wt-info">
@@ -564,42 +515,7 @@
             </div>
             <!-- OUR TEAM SECTION END -->
 
-            <!-- Video SECTION START -->
-            <div class="section-full site-bg-black">
 
-                <div class="container-fluid">
-
-                    <div class="section-content">
-                        <div class="row">
-                            <div class="col-lg-6 bg-cover" style="background-image: url(images/background/foto.jpg);">
-                                <div class="video-section-first">
-                                    <a href="https://www.youtube.com/watch?v=rRkSLDTYwxo" class="mfp-video play-now-video">
-                                        <i class="icon fa fa-play"></i>
-                                        <span class="ripple"></span>
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="video-section-first-content p-tb120">
-                                    <div class="section-head left wt-small-separator-outer when-bg-dark">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>We Provide</div>
-                                        </div>
-                                        <h2 class="wt-title">Empowering women in Semarang.</h2>
-                                        <p>The high maternal mortality rate from year to year is one of the health problems that Semarang City must face. The peak in 2015, Semarang City became the second-highest maternal mortality rate in Central Java. In that year, the Semarang City Government was encouraged to create the innovation Sayangi Dampingi Ibu Anak Kota Semarang (Sanpiisan) / Outreach Service for Maternal Care and Stunted Children Semarang City.</p>
-                                    </div>
-                                    <a href="our-classes.html" class="site-button site-btn-effect">Learn More</a>
-                                </div>
-
-                            </div>
-
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-            <!-- Video SECTION END -->
 
             <!-- OUR STORY SECTION START -->
             <div class="section-full site-bg-gray-light p-t120 p-b90">
@@ -688,7 +604,7 @@
             <div class="footer-top">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-3 col-md-6">
+                        <!-- <div class="col-lg-3 col-md-6">
 
                             <div class="widget widget_about">
                                 <h3 class="widget-title">About Us</h3>
@@ -701,16 +617,16 @@
                                 </ul>
                             </div>
 
-                        </div>
+                        </div> -->
 
                         <div class="col-lg-3 col-md-6">
 
                             <div class="widget recent-posts-entry">
                                 <h3 class="widget-title">Get in Touch</h3>
                                 <ul class="widget_address">
-                                    <li><i class="fa fa-map-marker"></i>92 Princess Road, parkvenue Greater London, NW18JR, UK</li>
-                                    <li><i class="fa fa-envelope"></i>contact123@gmail.com</li>
-                                    <li> <i class="fa fa-phone"></i>(+291) 912-3456-073</li>
+                                    <li><i class="fa fa-map-marker"></i>Jl. Pandanaran No. 79, Kel. Mugassari, Kec. Semarang Selatan Kota Semarang Jawa Tengah 50271 Indonesia</li>
+                                    <li><i class="fa fa-envelope"></i>dkksemarang@gmail.com</li>
+                                    <li> <i class="fa fa-phone"></i>(+62) 8953 76860 088</li>
                                 </ul>
                             </div>
 
@@ -722,36 +638,14 @@
                             <div class="widget widget_services">
                                 <h3 class="widget-title">Useful links</h3>
                                 <ul>
-                                    <li><a href="about-1.html">About</a></li>
-                                    <li><a href="gallery-1.html">Gallery</a></li>
-                                    <li><a href="blog-grid.html">Blog</a></li>
-                                    <li><a href="faq.html">FAQ</a></li>
-                                    <li><a href="contact.html">Contact Us</a></li>
+                                    <li><a href="https://kemkes.go.id/">Kementrian Kesehatan</a></li>
+                                    <li><a href="https://dinkes.jatengprov.go.id/">Dinas Kesehatan Provinsi Jawa Tengah</a></li>
+                                    <li><a href="https://semarangkota.go.id/">Pemerintah Kota Semarang</a></li>
+                                    <li><a href="https://dinkes.semarangkota.go.id/">Dinas Kesehatan Kota Semarang</a></li>
                                 </ul>
                             </div>
                         </div>
 
-
-
-                        <div class="col-lg-3 col-md-6">
-                            <div class="widget widget_newsletter">
-                                <h3 class="widget-title">Newsletter</h3>
-                                <p>Our newsletters contain useful blog
-                                    posts, case studies, “how to”s, and ways
-                                    to help you grow your business. </p>
-                                <div class="newsletter-bx">
-                                    <form role="search" method="post">
-                                        <div class="input-group">
-                                            <input name="news-letter" class="form-control" placeholder="Enter Email Address" type="text">
-                                            <span class="input-group-btn">
-                                                <button type="submit" class="site-button"><i class="flaticon-send"></i></button>
-                                            </span>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
-
-                        </div>
 
                     </div>
                 </div>
@@ -761,19 +655,13 @@
             <div class="footer-bottom">
                 <div class="container">
                     <div class="footer-bottom-info">
-                        <div class="footer-logo">
-                            <img src="images/logo-light.png" alt="">
-                        </div>
+                        <!-- <div class="footer-logo">
+                            <img src="images/logo-light.png" alt="Logo DKK">
+                        </div> -->
                         <div class="footer-copy-right">
-                            <span class="copyrights-text">© 2020 Your Company. Designed By Thewebmax</span>
+                            <span class="copyrights-text">© <?= date('Y') ?> Dinas Kesehatan Kota Semarang.</span>
                         </div>
-                        <div class="footer-link">
-                            <ul class="copyrights-nav">
-                                <li><a href="about-2.html">Terms &amp; Condition</a></li>
-                                <li><a href="about-1.html">Privacy Policy</a></li>
-                                <li><a href="contact-1.html">Help</a></li>
-                            </ul>
-                        </div>
+
                     </div>
                 </div>
             </div>
@@ -798,6 +686,15 @@
             </div>
         </div>
     </div>
+    <!-- <iframe src="/landing-bapak/media/audio/semarang.mp3" allow="autoplay" id="audio" style="display: none"></iframe> -->
+    <!-- <audio id="myAudio" autoplay style="display: none;">
+        <source src="/landing-bapak/media/audio/semarang.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <button id="playButton" style="display: none;">Play Audio</button> -->
+    <div id="player"></div>
+
+
     <!-- LOADING AREA  END ====== -->
 
     <!-- JAVASCRIPT  FILES ========================================= -->
@@ -827,6 +724,45 @@
 
     <!-- REVOLUTION SLIDER SCRIPT FILES -->
     <script src="js/rev-script-1.js"></script>
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <script>
+        var player;
+
+        // This function creates an <iframe> (and YouTube player)
+        // after the API code downloads.
+        function onYouTubeIframeAPIReady() {
+            player = new YT.Player('player', {
+                height: '390',
+                width: '640',
+                videoId: 'jkb3O0m-kVc', // Replace with your YouTube video ID
+                events: {
+                    'onReady': onPlayerReady
+                }
+            });
+        }
+
+        // The API will call this function when the video player is ready.
+        function onPlayerReady(event) {
+            // Simulate a click to comply with autoplay policies
+            $('#playButton').click();
+        }
+
+        // Function to play the video
+        function playVideo() {
+            player.playVideo();
+        }
+
+        $(document).ready(function() {
+            // Trigger click event on the hidden button to comply with autoplay policies
+            $('#playButton').click();
+        });
+
+        // Bind the click event to the hidden button
+        $('#playButton').on('click', function() {
+            playVideo();
+        });
+    </script>
+
 
 
 </body>
