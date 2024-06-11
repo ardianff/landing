@@ -376,7 +376,7 @@
                         <div class="row">
                             <div class="col-lg-6 bg-cover" style="background-image: url(images/background/foto.jpg);">
                                 <div class="video-section-first">
-                                    <a href="https://www.youtube.com/watch?v=rRkSLDTYwxo" class="mfp-video play-now-video">
+                                    <a href="https://www.youtube.com/watch?v=4GJa20v2X9I" class="mfp-video play-now-video">
                                         <i class="icon fa fa-play"></i>
                                         <span class="ripple"></span>
                                     </a>
@@ -556,7 +556,7 @@
                                             <img src="https://visitjawatengah.jatengprov.go.id/assets/images/f496a13e-7684-4399-bd8a-0da160aa054b.jpg" alt="Foto Lawang Sewu" style="height:200px">
                                         </div>
                                         <div class="our-story-content">
-                                            <a href="http://http://smg.city/selayangpandang"><span>Lawang Sewu</span></a>
+                                            <a href="http://http://smg.city/selayangpandang"><span>Overview</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -567,7 +567,7 @@
                                             <img src="https://pariwisata.semarangkota.go.id/backend/web/upload/berita/1687174029_kota-lama-semarang.jpg" alt="Foto Kota Lama" style="height:200px">
                                         </div>
                                         <div class="our-story-content">
-                                            <a href="https://smg.city/wisatasemarangcity"><span>Old City</span></a>
+                                            <a href="https://smg.city/wisatasemarangcity"><span>Tourist Attraction</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -578,7 +578,7 @@
                                             <img src="https://semarangkota.go.id/packages/upload/galeri/2HaDTTl.jpeg" alt="Foto Balaikota" style="height:200px">
                                         </div>
                                         <div class="our-story-content">
-                                            <a href="https://semarangkota.go.id"><span>City Hall</span></a>
+                                            <a href="https://semarangkota.go.id"><span>Goverment</span></a>
                                         </div>
                                     </div>
                                 </div>
