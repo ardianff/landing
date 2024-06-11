@@ -686,14 +686,8 @@
             </div>
         </div>
     </div>
-    <!-- <iframe src="/landing-bapak/media/audio/semarang.mp3" allow="autoplay" id="audio" style="display: none"></iframe> -->
-    <!-- <audio id="myAudio" autoplay style="display: none;">
-        <source src="/landing-bapak/media/audio/semarang.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-    </audio>
-    <button id="playButton" style="display: none;">Play Audio</button> -->
-    <div id="player"></div>
 
+    <iframe allow="autoplay" frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/jkb3O0m-kVc?autoplay=1&origin=http://103.101.52.65/landing/" title="Bug Week " height="278" data-ytbridge="vidSurrogate2" style="width: 100%; display:none"></iframe>
 
     <!-- LOADING AREA  END ====== -->
 
@@ -725,43 +719,6 @@
     <!-- REVOLUTION SLIDER SCRIPT FILES -->
     <script src="js/rev-script-1.js"></script>
     <script src="https://www.youtube.com/iframe_api"></script>
-    <script>
-        var player;
-
-        // This function creates an <iframe> (and YouTube player)
-        // after the API code downloads.
-        function onYouTubeIframeAPIReady() {
-            player = new YT.Player('player', {
-                height: '390',
-                width: '640',
-                videoId: 'jkb3O0m-kVc', // Replace with your YouTube video ID
-                events: {
-                    'onReady': onPlayerReady
-                }
-            });
-        }
-
-        // The API will call this function when the video player is ready.
-        function onPlayerReady(event) {
-            // Simulate a click to comply with autoplay policies
-            $('#playButton').click();
-        }
-
-        // Function to play the video
-        function playVideo() {
-            player.playVideo();
-        }
-
-        $(document).ready(function() {
-            // Trigger click event on the hidden button to comply with autoplay policies
-            $('#playButton').click();
-        });
-
-        // Bind the click event to the hidden button
-        $('#playButton').on('click', function() {
-            playVideo();
-        });
-    </script>
 
 
 
