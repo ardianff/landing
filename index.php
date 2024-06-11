@@ -687,7 +687,6 @@
         </div>
     </div>
 
-    <iframe allow="autoplay" frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/jkb3O0m-kVc?autoplay=1&origin=http://103.101.52.65/landing/" title="Bug Week " height="278" data-ytbridge="vidSurrogate2" style="width: 100%; display:none"></iframe>
 
     <!-- LOADING AREA  END ====== -->
 
