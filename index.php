@@ -53,7 +53,7 @@
         <!-- HEADER START -->
         <header class="site-header header-style-1 mobile-sider-drawer-menu">
 
-            <div class="top-bar site-bg-gray-light">
+            <div class="top-bar site-bg-red-light" style="background-color: #BF0426;">
                 <div class="container">
 
                     <div class="d-flex justify-content-between">
