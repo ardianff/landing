@@ -235,7 +235,7 @@
 
 
                                 <!-- LAYER NR. 1 Img -->
-                                <div class="tp-caption  tp-resizeme change-img-slider1.png" id="slide-902-layer-1" data-x="['right','right','center','center']" data-hoffset="['-900','30','0','0']" data-y="['middle','middle','bottom','bottom']" data-voffset="['-5','30','20','20']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"from":"x:right;","speed":1500,"to":"o:1;","delay":2500,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;border-width:0px;">
+                                <div class="tp-caption  tp-resizeme change-img-slider1.png" id="slide-902-layer-1" data-x="['right','right','center','center']" data-hoffset="['-700','30','0','0']" data-y="['middle','middle','bottom','bottom']" data-voffset="['-5','30','20','20']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"from":"x:right;","speed":1500,"to":"o:1;","delay":2500,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;border-width:0px;">
                                     <div>
                                         <img src="images/main-slider/slider1/bapak_hakam.png" alt="" data-ww="['1026px','700px','400px','250px']" data-hh="['832px','568px','325px','203px']" style="width: 150px; height: auto;" data-no-retina>
                                     </div>
@@ -299,7 +299,7 @@
 
                                 <div class="col-lg-6 col-md-12 m-b30">
                                     <div class="about-gym-one">
-                                        <div class="about-gym-one-media"><img src="images/info.png" alt=""></div>
+                                        <div class="about-gym-one-media"><img src="images/bumil.jpg" alt=""></div>
                                         <div class="outline-text">Infographic</div>
                                     </div>
                                 </div>
@@ -567,7 +567,7 @@
                                             <img src="https://pariwisata.semarangkota.go.id/backend/web/upload/berita/1687174029_kota-lama-semarang.jpg" alt="Foto Kota Lama" style="height:200px">
                                         </div>
                                         <div class="our-story-content">
-                                            <a href="https://smg.city/wisatasemarangcity" target="_blank"><span>Tourist</span></a>
+                                            <a href="https://smg.city/wonderfullsemarang" target="_blank"><span>Tourist</span></a>
                                         </div>
                                     </div>
                                 </div>
