@@ -106,7 +106,7 @@
                                 <li class="active has-child"><a href="/landing">Home</a>
                                 </li>
 
-                                <li class="has-child"><a href="https://semarangkota.go.id/" target="_blank">Government</a>
+                                <li class="has-child"><a href="https://semarangkota.go.id/" target="_blank">Our City</a>
 
                                 </li>
                                 <li class="has-child"><a href="http://smg.city/selayangpandang" target="_blank">Overview</a>
@@ -170,9 +170,9 @@
 
 
                                 <!-- LAYER NR. 1 Img -->
-                                <div class="tp-caption   tp-resizeme change-img-slider1.png" id="slide-901-layer-1" data-x="['right','right','center','center']" data-hoffset="['-900','-50','0','0']" data-y="['middle','middle','bottom','bottom']" data-voffset="['-5','30','20','20']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"from":"x:right;","speed":1500,"to":"o:1;","delay":2500,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;border-width:0px;">
+                                <div class="tp-caption   tp-resizeme change-img-slider1.png" id="slide-901-layer-1" data-x="['right','right','center','center']" data-hoffset="['-800','-50','0','0']" data-y="['middle','middle','bottom','bottom']" data-voffset="['-5','30','20','20']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"from":"x:right;","speed":1500,"to":"o:1;","delay":2500,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;border-width:0px;">
                                     <div>
-                                        <img src="images/main-slider/slider1/bu_wali_smg.png" alt="" data-ww="['1221px','722px','400px','250px']" data-hh="['846px','500px','277px','173px']" style="width: 150px; height: auto;" data-no-retina>
+                                        <img src="images/main-slider/slider1/bu_wali_smg.png" alt="" data-ww="['1221px','722px','400px']" data-hh="['846px','500px','277px']" style="width: 150px; height: auto;" data-no-retina class="mb-5">
                                     </div>
                                 </div>
 
@@ -237,7 +237,7 @@
                                 <!-- LAYER NR. 1 Img -->
                                 <div class="tp-caption  tp-resizeme change-img-slider1.png" id="slide-902-layer-1" data-x="['right','right','center','center']" data-hoffset="['-700','30','0','0']" data-y="['middle','middle','bottom','bottom']" data-voffset="['-5','30','20','20']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"from":"x:right;","speed":1500,"to":"o:1;","delay":2500,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;border-width:0px;">
                                     <div>
-                                        <img src="images/main-slider/slider1/bapak.png" alt="" data-ww="['1026px','700px','400px','250px']" data-hh="['832px','568px','325px','203px']" style="width: 150px; height: auto;" data-no-retina>
+                                        <img src="images/main-slider/slider1/bapak.png" alt="" data-ww="['1026px','700px','400px']" data-hh="['832px','568px','258px']" style="width: 150px; height: auto;" data-no-retina class="mb-5">
                                     </div>
                                 </div>
 
@@ -297,12 +297,12 @@
                         <div class="section-content">
                             <div class="row justify-content-center d-flex">
 
-                                <div class="col-lg-6 col-md-12 m-b30">
+                                <!-- <div class="col-lg-6 col-md-12 m-b30">
                                     <div class="about-gym-one">
                                         <div class="about-gym-one-media"><img src="images/bumil.jpg" alt=""></div>
                                         <div class="outline-text">Infographic</div>
                                     </div>
-                                </div>
+                                </div> -->
 
                                 <div class="col-lg-12 col-12 col-md-12 m-b30">
                                     <div class="about-section-one-right">
@@ -314,7 +314,7 @@
 
                                             </div>
                                             <h2>Outreach Service for Maternal Care and Stunted Children Semarang City</h2>
-                                            <p>SANPIISAN PROGRAM</p>
+                                            <h3 style="color: blue;">SANPIISAN PROGRAM</h3>
                                             <p>
                                                 The high maternal mortality rate from year to year is one of the health problems that Semarang City must face. The peak in 2015, Semarang City became the second-highest maternal mortality rate in Central Java. In that year, the Semarang City Government was encouraged to create the innovation Sayangi Dampingi Ibu Anak Kota Semarang (Sanpiisan) / Outreach Service for Maternal Care and Stunted Children Semarang City.
                                             </p>
@@ -556,7 +556,7 @@
                                             <img src="https://visitjawatengah.jatengprov.go.id/assets/images/f496a13e-7684-4399-bd8a-0da160aa054b.jpg" alt="Foto Lawang Sewu" style="height:200px">
                                         </div>
                                         <div class="our-story-content">
-                                            <a href="http://http://smg.city/selayangpandang" target="_blank"><span>Overview</span></a>
+                                            <a href="https://smg.city/selayangpandang" target="_blank"><span>Overview</span></a>
                                         </div>
                                     </div>
                                 </div>
