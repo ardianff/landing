@@ -170,9 +170,9 @@
 
 
                                 <!-- LAYER NR. 1 Img -->
-                                <div class="tp-caption   tp-resizeme change-img-slider1.png" id="slide-901-layer-1" data-x="['right','right','center','center']" data-hoffset="['-254','-50','0','0']" data-y="['middle','middle','bottom','bottom']" data-voffset="['-5','30','20','20']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"from":"x:right;","speed":1500,"to":"o:1;","delay":2500,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;border-width:0px;">
+                                <div class="tp-caption   tp-resizeme change-img-slider1.png" id="slide-901-layer-1" data-x="['right','right','center','center']" data-hoffset="['-900','-50','0','0']" data-y="['middle','middle','bottom','bottom']" data-voffset="['-5','30','20','20']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"from":"x:right;","speed":1500,"to":"o:1;","delay":2500,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;border-width:0px;">
                                     <div>
-                                        <img src="images/main-slider/slider1/d-1.png" alt="" data-ww="['1221px','722px','400px','250px']" data-hh="['846px','500px','277px','173px']" width="1221" height="846" data-no-retina>
+                                        <img src="images/main-slider/slider1/bu_walii.png" alt="" data-ww="['1221px','722px','400px','250px']" data-hh="['846px','500px','277px','173px']" style="width: 150px; height: auto;" data-no-retina>
                                     </div>
                                 </div>
 
@@ -235,9 +235,9 @@
 
 
                                 <!-- LAYER NR. 1 Img -->
-                                <div class="tp-caption  tp-resizeme change-img-slider1.png" id="slide-902-layer-1" data-x="['right','right','center','center']" data-hoffset="['-200','30','0','0']" data-y="['middle','middle','bottom','bottom']" data-voffset="['-5','30','20','20']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"from":"x:right;","speed":1500,"to":"o:1;","delay":2500,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;border-width:0px;">
+                                <div class="tp-caption  tp-resizeme change-img-slider1.png" id="slide-902-layer-1" data-x="['right','right','center','center']" data-hoffset="['-900','30','0','0']" data-y="['middle','middle','bottom','bottom']" data-voffset="['-5','30','20','20']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"from":"x:right;","speed":1500,"to":"o:1;","delay":2500,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;border-width:0px;">
                                     <div>
-                                        <img src="images/main-slider/slider1/d-2.png" alt="" data-ww="['1026px','700px','400px','250px']" data-hh="['832px','568px','325px','203px']" width="1026" height="832" data-no-retina>
+                                        <img src="images/main-slider/slider1/bapak_hakam.png" alt="" data-ww="['1026px','700px','400px','250px']" data-hh="['832px','568px','325px','203px']" style="width: 150px; height: auto;" data-no-retina>
                                     </div>
                                 </div>
 
@@ -304,7 +304,7 @@
                                     </div>
                                 </div>
 
-                                <div class="col-lg-6 col-md-12 m-b30">
+                                <div class="col-lg-12 col-12 col-md-12 m-b30">
                                     <div class="about-section-one-right">
                                         <!-- TITLE START-->
                                         <div class="section-head left wt-small-separator-outer">
@@ -313,8 +313,8 @@
                                                 <div>About US</div>
 
                                             </div>
-                                            <h2>SANPIISAN PROGRAM</h2>
-                                            <p>Outreach Service for Maternal Care and Stunted Children Semarang City</p>
+                                            <h2>Outreach Service for Maternal Care and Stunted Children Semarang City</h2>
+                                            <p>SANPIISAN PROGRAM</p>
                                             <p>
                                                 The high maternal mortality rate from year to year is one of the health problems that Semarang City must face. The peak in 2015, Semarang City became the second-highest maternal mortality rate in Central Java. In that year, the Semarang City Government was encouraged to create the innovation Sayangi Dampingi Ibu Anak Kota Semarang (Sanpiisan) / Outreach Service for Maternal Care and Stunted Children Semarang City.
                                             </p>
@@ -356,7 +356,7 @@
 
 
 
-                                        <a href="" class="site-button site-btn-effect">Learn More</a>
+                                        <a href="https://smg.city/materisanpiisan" class="site-button site-btn-effect" target="_blank">Learn More</a>
                                     </div>
                                 </div>
 
@@ -429,12 +429,12 @@
 
                                     <div class="wt-info">
                                         <div class="team-detail">
-                                            <a href="https://smg.city/materiiklim"><span class="team-position">Show More </span></a>
+                                            <a href="https://smg.city/materiiklim" target="_blank"><span class="team-position">Show More </span></a>
                                             <h3 class="m-t0 team-name">Climate Change</h3>
                                         </div>
                                         <div class="team-social-center">
                                             <ul class="team-social-bar">
-                                                <li><a href="https://smg.city/materiiklim"><i class="fa fa-chrome"></i></a></li>
+                                                <li><a href="https://smg.city/materiiklim" target="_blank"><i class="fa fa-chrome"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -451,12 +451,12 @@
 
                                     <div class="wt-info">
                                         <div class="team-detail">
-                                            <a href="https://smg.city/materickrawalabuana"><span class="team-position">Show More </span></a>
+                                            <a href="https://smg.city/materickrawalabuana" target="_blank"><span class="team-position">Show More </span></a>
                                             <h3 class="m-t0 team-name">Ckrawala Buana</h3>
                                         </div>
                                         <div class="team-social-center">
                                             <ul class="team-social-bar">
-                                                <li><a href="https://smg.city/materickrawalabuana"><i class="fa fa-chrome"></i></a></li>
+                                                <li><a href="https://smg.city/materickrawalabuana" target="_blank"><i class="fa fa-chrome"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -473,12 +473,12 @@
 
                                     <div class="wt-info">
                                         <div class="team-detail">
-                                            <a href="https://smg.city/materigajahmada"><span class="team-position">Show More </span></a>
+                                            <a href="https://smg.city/materigajahmada" target="_blank"><span class="team-position">Show More </span></a>
                                             <h3 class="m-t0 team-name">Healthy City</h3>
                                         </div>
                                         <div class="team-social-center">
                                             <ul class="team-social-bar">
-                                                <li><a href="https://smg.city/materigajahmada"><i class="fa fa-chrome"></i></a></li>
+                                                <li><a href="https://smg.city/materigajahmada" target="_blank"><i class="fa fa-chrome"></i></a></li>
 
                                             </ul>
                                         </div>
@@ -495,12 +495,12 @@
 
                                     <div class="wt-info">
                                         <div class="team-detail">
-                                            <a href="https://smg.city/materivectorborne"><span class="team-position">Show More </span></a>
+                                            <a href="https://smg.city/materivectorborne" target="_blank"><span class="team-position">Show More </span></a>
                                             <h3 class="m-t0 team-name">Vector-Borne Diseases</h3>
                                         </div>
                                         <div class="team-social-center">
                                             <ul class="team-social-bar">
-                                                <li><a href="https://smg.city/materivectorborne"><i class="fa fa-chrome"></i></a></li>
+                                                <li><a href="https://smg.city/materivectorborne" target="_blank"><i class="fa fa-chrome"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -556,7 +556,7 @@
                                             <img src="https://visitjawatengah.jatengprov.go.id/assets/images/f496a13e-7684-4399-bd8a-0da160aa054b.jpg" alt="Foto Lawang Sewu" style="height:200px">
                                         </div>
                                         <div class="our-story-content">
-                                            <a href="http://http://smg.city/selayangpandang"><span>Overview</span></a>
+                                            <a href="http://http://smg.city/selayangpandang" target="_blank"><span>Overview</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -567,7 +567,7 @@
                                             <img src="https://pariwisata.semarangkota.go.id/backend/web/upload/berita/1687174029_kota-lama-semarang.jpg" alt="Foto Kota Lama" style="height:200px">
                                         </div>
                                         <div class="our-story-content">
-                                            <a href="https://smg.city/wisatasemarangcity"><span>Tourist</span></a>
+                                            <a href="https://smg.city/wisatasemarangcity" target="_blank"><span>Tourist</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -578,7 +578,7 @@
                                             <img src="https://semarangkota.go.id/packages/upload/galeri/2HaDTTl.jpeg" alt="Foto Balaikota" style="height:200px">
                                         </div>
                                         <div class="our-story-content">
-                                            <a href="https://semarangkota.go.id"><span>Government</span></a>
+                                            <a href="https://semarangkota.go.id" target="_blank"><span>Government</span></a>
                                         </div>
                                     </div>
                                 </div>
