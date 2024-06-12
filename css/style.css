@@ -143,7 +143,7 @@ This files [Table of contents] are outlined below
 @import url("https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800;900&family=Teko:wght@300;400;500;600;700&display=swap");
 /*===GENERAL===*/
 .site-text-primary {
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .site-text-black {
@@ -163,7 +163,7 @@ This files [Table of contents] are outlined below
 }
 
 .site-bg-primary {
-  background-color: #ff6a01;
+  background-color: #bf0426;
 }
 
 .site-bg-black {
@@ -2058,7 +2058,7 @@ ol li {
   text-transform: uppercase;
   letter-spacing: 3px;
   font-size: 20px;
-  color: #ff6a01;
+  color: #bf0426;
   font-weight: 700;
 }
 
@@ -2085,14 +2085,14 @@ ol li {
   overflow: hidden;
   cursor: pointer;
   display: inline-block;
-  background-color: #ff6a01;
+  background-color: #bf0426;
   border: none;
   font-size: 15px;
   font-weight: 500;
 }
 
 .site-button:active, .site-button:focus, .site-button:visited {
-  background-color: #ff6a01;
+  background-color: #bf0426;
   color: #000;
 }
 
@@ -2247,11 +2247,11 @@ ol li {
 }
 
 .owl-carousel .owl-dots .owl-dot:hover span {
-  background: #ff6a01;
+  background: #bf0426;
 }
 
 .owl-carousel .owl-dots .owl-dot.active span {
-  background: #ff6a01;
+  background: #bf0426;
 }
 
 /*---Owl button top to center---*/
@@ -2354,8 +2354,8 @@ ol li {
 
 /*---Owl slider button---*/
 .owl-prev {
-  background-color: #ff6a01;
-  border-color: #ff6a01;
+  background-color: #bf0426;
+  border-color: #bf0426;
   color: #fff;
   padding: 8px 15px;
   font-size: 13px;
@@ -2369,29 +2369,29 @@ ol li {
 }
 
 .owl-prev:hover {
-  background-color: #ff6a01;
-  border-color: #ff6a01;
+  background-color: #bf0426;
+  border-color: #bf0426;
   color: #fff;
   opacity: 0.9;
 }
 
 .owl-prev:active {
-  background-color: #ff6a01;
-  border-color: #ff6a01;
+  background-color: #bf0426;
+  border-color: #bf0426;
   color: #fff;
   opacity: 0.9;
 }
 
 .owl-prev:focus {
-  background-color: #ff6a01;
-  border-color: #ff6a01;
+  background-color: #bf0426;
+  border-color: #bf0426;
   color: #fff;
   opacity: 0.9;
 }
 
 .owl-next {
-  background-color: #ff6a01;
-  border-color: #ff6a01;
+  background-color: #bf0426;
+  border-color: #bf0426;
   color: #fff;
   padding: 8px 15px;
   font-size: 13px;
@@ -2405,22 +2405,22 @@ ol li {
 }
 
 .owl-next:hover {
-  background-color: #ff6a01;
-  border-color: #ff6a01;
+  background-color: #bf0426;
+  border-color: #bf0426;
   color: #fff;
   opacity: 0.9;
 }
 
 .owl-next:active {
-  background-color: #ff6a01;
-  border-color: #ff6a01;
+  background-color: #bf0426;
+  border-color: #bf0426;
   color: #fff;
   opacity: 0.9;
 }
 
 .owl-next:focus {
-  background-color: #ff6a01;
-  border-color: #ff6a01;
+  background-color: #bf0426;
+  border-color: #bf0426;
   color: #fff;
   opacity: 0.9;
 }
@@ -2526,17 +2526,17 @@ THEMEFOREST REQUIRED CLASSES
 }
 
 .wt-tabs .nav-tabs > li a.active {
-  background-color: #ff6a01;
+  background-color: #bf0426;
   color: #000;
 }
 
 .wt-tabs .nav-tabs > li a.active:focus {
-  background-color: #ff6a01;
+  background-color: #bf0426;
   color: #000;
 }
 
 .wt-tabs .nav-tabs > li a.active:hover {
-  background-color: #ff6a01;
+  background-color: #bf0426;
   color: #000;
 }
 
@@ -3001,7 +3001,7 @@ THEMEFOREST REQUIRED CLASSES
 }
 
 .header-style-1 .header-nav .nav > li .sub-menu li:hover > a {
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .header-style-1 .header-nav .nav > li .sub-menu li:last-child {
@@ -3284,7 +3284,7 @@ THEMEFOREST REQUIRED CLASSES
 }
 
 .ap-btn:hover:after {
-  background: #ff6a01;
+  background: #bf0426;
   transition-delay: .4s;
 }
 
@@ -3293,7 +3293,7 @@ THEMEFOREST REQUIRED CLASSES
   height: 0px;
   width: 100%;
   bottom: 0px;
-  border: 3px solid #ff6a01;
+  border: 3px solid #bf0426;
   border-top: 0px;
   border-bottom: 0px;
 }
@@ -3356,7 +3356,7 @@ THEMEFOREST REQUIRED CLASSES
 }
 
 .header-style-2 .top-bar .wt-topbar-right-info li span {
-  color: #ff6a01;
+  color: #bf0426;
   text-transform: uppercase;
 }
 
@@ -3365,7 +3365,7 @@ THEMEFOREST REQUIRED CLASSES
 }
 
 .header-style-2 .top-bar .wt-topbar-left-info span {
-  color: #ff6a01;
+  color: #bf0426;
   text-transform: uppercase;
   display: inline-block;
   padding-right: 10px;
@@ -3703,11 +3703,11 @@ THEMEFOREST REQUIRED CLASSES
 .header-style-2 .header-nav .nav > li.active > a,
 .header-style-2 .header-nav .nav > li.current-menu-item > a {
   background-color: transparent;
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .header-style-2 .header-nav .nav > li:hover > a {
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .header-style-2 .header-nav .nav > li:hover > .sub-menu {
@@ -3765,7 +3765,7 @@ THEMEFOREST REQUIRED CLASSES
 }
 
 .header-style-2 .header-nav .nav > li .sub-menu li:hover > a {
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .header-style-2 .header-nav .nav > li .sub-menu li:last-child {
@@ -4036,7 +4036,7 @@ THEMEFOREST REQUIRED CLASSES
 }
 
 .header-style-3 .top-bar .wt-topbar-right-info li span {
-  color: #ff6a01;
+  color: #bf0426;
   text-transform: uppercase;
 }
 
@@ -4045,7 +4045,7 @@ THEMEFOREST REQUIRED CLASSES
 }
 
 .header-style-3 .top-bar .wt-topbar-left-info span {
-  color: #ff6a01;
+  color: #bf0426;
   text-transform: uppercase;
   display: inline-block;
   padding-right: 10px;
@@ -4383,11 +4383,11 @@ THEMEFOREST REQUIRED CLASSES
 .header-style-3 .header-nav .nav > li.active > a,
 .header-style-3 .header-nav .nav > li.current-menu-item > a {
   background-color: transparent;
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .header-style-3 .header-nav .nav > li:hover > a {
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .header-style-3 .header-nav .nav > li:hover > .sub-menu {
@@ -4445,7 +4445,7 @@ THEMEFOREST REQUIRED CLASSES
 }
 
 .header-style-3 .header-nav .nav > li .sub-menu li:hover > a {
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .header-style-3 .header-nav .nav > li .sub-menu li:last-child {
@@ -4732,7 +4732,7 @@ THEMEFOREST REQUIRED CLASSES
   position: relative;
   display: inline-block;
   font-weight: 700;
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .wt-small-separator.white {
@@ -4808,7 +4808,7 @@ THEMEFOREST REQUIRED CLASSES
 .section-head.left.wt-small-separator-outer .wt-small-separator div.sep-leaf-left:before, .section-head.left.wt-small-separator-outer .wt-small-separator div.sep-leaf-left:after {
   position: absolute;
   content: '';
-  background-color: #ff6a01;
+  background-color: #bf0426;
   width: 30px;
   height: 3px;
   bottom: 0px;
@@ -4854,7 +4854,7 @@ THEMEFOREST REQUIRED CLASSES
 .section-head.center .wt-small-separator div.sep-leaf-left:before {
   position: absolute;
   content: '';
-  background-color: #ff6a01;
+  background-color: #bf0426;
   width: 30px;
   height: 4px;
   bottom: 0px;
@@ -4881,7 +4881,7 @@ THEMEFOREST REQUIRED CLASSES
 }
 
 .about-gym-one:after {
-  border: 30px solid #ff6a01;
+  border: 30px solid #bf0426;
   content: '';
   position: absolute;
   z-index: -1;
@@ -4971,7 +4971,7 @@ THEMEFOREST REQUIRED CLASSES
 .wt-team-1 {
   position: relative;
   overflow: hidden;
-  background-color: #ff6a01;
+  background-color: #bf0426;
   transition: 0.5s all ease;
   z-index: 1;
 }
@@ -5013,7 +5013,7 @@ THEMEFOREST REQUIRED CLASSES
 
 .wt-team-1 .team-social-center {
   background-color: rgba(0, 0, 0, 0.5);
-  border-right: 3px solid #ff6a01;
+  border-right: 3px solid #bf0426;
   position: absolute;
   bottom: 30px;
   left: -100%;
@@ -5037,7 +5037,7 @@ THEMEFOREST REQUIRED CLASSES
 }
 
 .wt-team-1 .team-social-center ul li a:hover {
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .wt-team-1:hover .wt-media {
@@ -5088,7 +5088,7 @@ THEMEFOREST REQUIRED CLASSES
 }
 
 .steps-section:after {
-  background-color: #ff6a01;
+  background-color: #bf0426;
   max-width: 600px;
   height: 100%;
   content: '';
@@ -5148,7 +5148,7 @@ THEMEFOREST REQUIRED CLASSES
 }
 
 .year-section:after {
-  background-color: #ff6a01;
+  background-color: #bf0426;
   max-width: 400px;
   height: 100%;
   content: '';
@@ -5257,7 +5257,7 @@ THEMEFOREST REQUIRED CLASSES
   text-align: center;
   line-height: 65px;
   background-color: #fff;
-  color: #ff6a01;
+  color: #bf0426;
   z-index: 1;
   font-size: 20px;
   padding-left: 5px;
@@ -5315,7 +5315,7 @@ THEMEFOREST REQUIRED CLASSES
 .testimonial-1-content:after {
   content: '';
   position: absolute;
-  border: 3px solid #ff6a01;
+  border: 3px solid #bf0426;
   top: 107px;
   left: 30px;
   bottom: -30px;
@@ -5386,7 +5386,7 @@ THEMEFOREST REQUIRED CLASSES
   font-size: 16px;
   line-height: 18px;
   font-family: "Heebo", sans-serif;
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .testimonial-1-content .testimonial-1 .testimonial-text {
@@ -5506,7 +5506,7 @@ THEMEFOREST REQUIRED CLASSES
 }
 
 .time-zone-table1 .table th .classes-days {
-  background-color: #ff6a01;
+  background-color: #bf0426;
   font-size: 18px;
   color: #fff;
   letter-spacing: 2px;
@@ -5531,7 +5531,7 @@ THEMEFOREST REQUIRED CLASSES
 }
 
 .time-zone-table1 .table td:first-child {
-  background-color: #ff6a01;
+  background-color: #bf0426;
 }
 
 .time-zone-table1 .table td .content-data {
@@ -5570,7 +5570,7 @@ THEMEFOREST REQUIRED CLASSES
 }
 
 .time-zone-table1 .table td .content-data:hover:after {
-  background-color: #ff6a01;
+  background-color: #bf0426;
 }
 
 .time-zone-table1 .table td .content-empty {
@@ -5747,7 +5747,7 @@ THEMEFOREST REQUIRED CLASSES
   text-transform: uppercase;
   letter-spacing: 3px;
   font-size: 20px;
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .blog-post-style-1 .wt-post-meta {
@@ -5779,7 +5779,7 @@ THEMEFOREST REQUIRED CLASSES
 }
 
 .blog-post-style-1:hover .wt-post-meta ul li {
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .blog-post-style-1:hover .wt-post-meta ul li i {
@@ -5806,7 +5806,7 @@ THEMEFOREST REQUIRED CLASSES
 
 .footer-dark .widget-title {
   font-family: "Teko", sans-serif;
-  color: #ff6a01;
+  color: #bf0426;
   font-weight: 700;
   font-size: 24px;
   margin-bottom: 30px;
@@ -5826,7 +5826,7 @@ THEMEFOREST REQUIRED CLASSES
   height: 30px;
   line-height: 30px;
   padding: 0px;
-  color: #ff6a01;
+  color: #bf0426;
   font-size: 14px;
   text-align: center;
   border: 1px solid #fff;
@@ -5902,7 +5902,7 @@ THEMEFOREST REQUIRED CLASSES
 }
 
 .footer-dark .footer-bottom .footer-link .copyrights-nav li a:hover {
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .widget {
@@ -5928,7 +5928,7 @@ THEMEFOREST REQUIRED CLASSES
   left: 0px;
   top: 5px;
   font-size: 18px;
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .widget_address li:last-child {
@@ -6062,7 +6062,7 @@ button.scroltop span {
 }
 
 .bullet-bar .tp-bullet:hover, .bullet-bar .tp-bullet.selected {
-  background: #ff6a01 !important;
+  background: #bf0426 !important;
 }
 
 /*Revolution Slider Button*/
@@ -6075,7 +6075,7 @@ button.scroltop span {
   overflow: hidden;
   cursor: pointer;
   display: inline-block;
-  background-color: #ff6a01;
+  background-color: #bf0426;
   border: none;
   font-size: 15px;
   font-weight: 500;
@@ -6170,7 +6170,7 @@ Home Page 2 Start
 .wt-team-2 .wt-media::after {
   content: '';
   position: absolute;
-  background-color: #ff6a01;
+  background-color: #bf0426;
   left: -40px;
   top: -40px;
   right: 40px;
@@ -6189,7 +6189,7 @@ Home Page 2 Start
   font-family: "Teko", sans-serif;
   font-size: 20px;
   font-weight: 700;
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .wt-team-2 .team-detail .team-name a {
@@ -6221,7 +6221,7 @@ Home Page 2 Start
 }
 
 .wt-team-2 .team-social-center ul li a:hover {
-  color: #ff6a01;
+  color: #bf0426;
   background-color: #000;
 }
 
@@ -6237,7 +6237,7 @@ Home Page 2 Start
 }
 
 .about-gym-two:after {
-  border: 30px solid #ff6a01;
+  border: 30px solid #bf0426;
   content: '';
   position: absolute;
   z-index: -1;
@@ -6436,7 +6436,7 @@ Home Page 2 Start
 .testimonial-2-content .testimonial-2 .testimonial-content-bg:before {
   content: '';
   position: absolute;
-  border: 3px solid #ff6a01;
+  border: 3px solid #bf0426;
   top: 107px;
   left: 30px;
   bottom: -30px;
@@ -6473,7 +6473,7 @@ Home Page 2 Start
   font-size: 16px;
   line-height: 18px;
   font-family: "Heebo", sans-serif;
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .testimonial-2-content .testimonial-2 .testimonial-text {
@@ -6578,7 +6578,7 @@ Home Page 2 Start
 
 .home-client2-outer .home-client2-carousel {
   padding: 50px 30px;
-  background-color: #ff6a01;
+  background-color: #bf0426;
   position: relative;
   bottom: -95px;
   margin-top: -95px;
@@ -6606,7 +6606,7 @@ Home Page 2 Start
   position: absolute;
   left: 15px;
   bottom: 0px;
-  background-color: #ff6a01;
+  background-color: #bf0426;
   max-width: 800px;
   width: 100%;
   top: 140px;
@@ -6707,7 +6707,7 @@ Home Page 2 Start
   text-transform: uppercase;
   letter-spacing: 3px;
   font-size: 20px;
-  background-color: #ff6a01;
+  background-color: #bf0426;
   display: inline-block;
   padding: 10px 10px 7px 10px;
 }
@@ -6764,7 +6764,7 @@ Home Page 2 Start
 
 .footer-dark.foo-style2 .widget-title {
   font-family: "Teko", sans-serif;
-  color: #ff6a01;
+  color: #bf0426;
   font-weight: 700;
   font-size: 24px;
   margin-bottom: 30px;
@@ -6773,7 +6773,7 @@ Home Page 2 Start
 
 .footer-dark.foo-style2 .widget_newsletter .newsletter-bx .site-button {
   text-transform: uppercase;
-  background-color: #ff6a01;
+  background-color: #bf0426;
   font-size: 14px;
   position: inherit;
   height: 46px;
@@ -6821,7 +6821,7 @@ Home Page 2 Start
   height: 30px;
   line-height: 30px;
   padding: 0px;
-  color: #ff6a01;
+  color: #bf0426;
   font-size: 14px;
   text-align: center;
   border: 1px solid #fff;
@@ -6915,7 +6915,7 @@ Home Page 2 Start
 .tp-caption .rev-img-circle:after {
   position: absolute;
   content: '';
-  background-color: #ff6a01;
+  background-color: #bf0426;
   left: 0px;
   top: -40px;
   bottom: -40px;
@@ -6960,7 +6960,7 @@ Home Page 2 Start
   width: 65px;
   text-align: center;
   line-height: 65px;
-  color: #ff6a01;
+  color: #bf0426;
   z-index: 1;
   font-size: 20px;
   padding-left: 5px;
@@ -7302,7 +7302,7 @@ Home Page 3 Start
   font-family: "Teko", sans-serif;
   font-size: 20px;
   font-weight: 700;
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .wt-team-3 .team-detail .team-name a {
@@ -7400,7 +7400,7 @@ Home Page 3 Start
   position: absolute;
   left: 0px;
   bottom: 0px;
-  border: 4px solid #ff6a01;
+  border: 4px solid #bf0426;
   width: 100%;
   top: 0px;
   z-index: -1;
@@ -7493,7 +7493,7 @@ Home Page 3 Start
   text-transform: uppercase;
   letter-spacing: 3px;
   font-size: 20px;
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .blog-post-style-3 .wt-post-meta {
@@ -7510,7 +7510,7 @@ Home Page 3 Start
   display: inline-block;
   font-size: 20px;
   margin-right: 15px;
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .blog-post-style-3 .wt-post-meta ul li i {
@@ -7601,7 +7601,7 @@ Home Page 3 Start
   height: 30px;
   line-height: 30px;
   padding: 0px;
-  color: #ff6a01;
+  color: #bf0426;
   font-size: 14px;
   text-align: center;
   border: 1px solid #000;
@@ -7678,7 +7678,7 @@ Home Page 3 Start
 }
 
 .footer-light .footer-bottom .footer-link .copyrights-nav li a:hover {
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .footer-light .widget_address li {
@@ -7751,7 +7751,7 @@ Home Page 3 Start
 
 .workout-box-style3-outer .workout-box-style3 .workout-content {
   padding: 20px;
-  background-color: #ff6a01;
+  background-color: #bf0426;
 }
 
 .workout-box-style3-outer .workout-box-style3 .workout-content .workout-title {
@@ -7864,7 +7864,7 @@ Home Page 3 Start
 }
 
 .wt-breadcrumb li a:hover {
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .wt-breadcrumb li:after {
@@ -7874,11 +7874,11 @@ Home Page 3 Start
   top: 15px;
   width: 4px;
   height: 4px;
-  background-color: #ff6a01;
+  background-color: #bf0426;
 }
 
 .wt-breadcrumb li:last-child {
-  color: #ff6a01;
+  color: #bf0426;
   padding-right: 0px;
 }
 
@@ -7912,7 +7912,7 @@ Home Page 3 Start
 }
 
 .filter-wrap .masonry-filter > li.active a {
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .filter-wrap .masonry-filter li {
@@ -7962,7 +7962,7 @@ Home Page 3 Start
 }
 
 .filter-wrap .masonry-filter li a:hover, .filter-wrap .masonry-filter li a:active, .filter-wrap .masonry-filter li a:focus {
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 @media (max-width: 767px) {
@@ -8017,7 +8017,7 @@ Home Page 3 Start
 }
 
 .gallery-outer2 .gallery-style-2:hover .wt-info a:hover {
-  background-color: #ff6a01;
+  background-color: #bf0426;
   color: #fff;
 }
 
@@ -8032,7 +8032,7 @@ Home Page 3 Start
   text-transform: uppercase;
   letter-spacing: 3px;
   font-size: 20px;
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 /*Gallery single*/
@@ -8077,7 +8077,7 @@ Home Page 3 Start
   position: absolute;
   left: 0px;
   font-size: 10px;
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .info-list-1 {
@@ -8110,7 +8110,7 @@ Home Page 3 Start
   display: inline-block;
   width: 50%;
   margin-bottom: 0px;
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .info-list-1 li span {
@@ -8166,7 +8166,7 @@ Home Page 3 Start
   left: 0px;
   top: 7px;
   font-size: 10px;
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 @media (max-width: 767px) {
@@ -8189,7 +8189,7 @@ Home Page 3 Start
 }
 
 .schedule-column .inner-column .time span {
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 @media (max-width: 480px) {
@@ -8257,7 +8257,7 @@ Home Page 3 Start
 
 .pricing-table-2 .p-table-price span {
   font-family: "Teko", sans-serif;
-  color: #ff6a01;
+  color: #bf0426;
   font-size: 66px;
   line-height: 56px;
   font-weight: 800;
@@ -8447,7 +8447,7 @@ Home Page 3 Start
 }
 
 .faq-media:after {
-  border: 4px solid #ff6a01;
+  border: 4px solid #bf0426;
   content: '';
   position: absolute;
   z-index: -1;
@@ -8488,7 +8488,7 @@ Home Page 3 Start
   font-family: "Teko", sans-serif;
   font-size: 300px;
   line-height: 240px;
-  color: #ff6a01;
+  color: #bf0426;
   display: block;
 }
 
@@ -8611,7 +8611,7 @@ Home Page 3 Start
 }
 
 .pagination-outer .pagination-style1 ul li:hover {
-  background-color: #ff6a01;
+  background-color: #bf0426;
 }
 
 .pagination-outer .pagination-style1 ul li:hover a {
@@ -8639,7 +8639,7 @@ Home Page 3 Start
 }
 
 .side-bar .search-bx .input-group-btn .btn {
-  background-color: #ff6a01;
+  background-color: #bf0426;
   color: #fff;
   border-radius: 0px;
   height: 50px;
@@ -8703,7 +8703,7 @@ Home Page 3 Start
   width: 100%;
   left: 0px;
   top: 0px;
-  background-color: #ff6a01;
+  background-color: #bf0426;
   opacity: 0;
   transition: 0.5s all ease;
 }
@@ -8740,7 +8740,7 @@ Home Page 3 Start
 }
 
 .side-bar .widget_services ul li a:hover {
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 .side-bar .widget_services ul li a i {
@@ -8854,7 +8854,7 @@ Home Page 3 Start
 }
 
 .blog-post-style-2.blog-post-single blockquote span cite {
-  color: #ff6a01;
+  color: #bf0426;
 }
 
 /*--Comment list--*/
@@ -8933,7 +8933,7 @@ ol.comment-list li.comment .comment-meta {
 }
 
 ol.comment-list li.comment .comment-meta a {
-  color: #ff6a01;
+  color: #bf0426;
   font-family: "Teko", sans-serif;
   letter-spacing: 2px;
   font-weight: 500;
@@ -8965,7 +8965,7 @@ ol.comment-list li.comment .reply {
 ol.comment-list li.comment .reply .comment-reply-link {
   position: relative;
   color: #fff;
-  background-color: #ff6a01;
+  background-color: #bf0426;
   padding: 4px 12px;
   font-size: 14px;
   display: inline-block;

@@ -25,8 +25,8 @@
     <!-- BOOTSTRAP STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <!-- FONTAWESOME STYLE SHEET -->
+    <link rel="stylesheet" type="text/css" href="https://site-assets.fontawesome.com/releases/v6.5.2/css/all.css" />
     <!-- <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" /> -->
-    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
     <!-- OWL CAROUSEL STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
     <!-- BOOTSTRAP SLECT BOX STYLE SHEET  -->
@@ -61,11 +61,11 @@
                             <ul class="wt-topbar-left-info">
                                 <span>Follow Us -</span>
                                 <ul class="social-icons">
-                                    <li><a href="https://www.instagram.com/dkksemarang" target="_blank" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://www.facebook.com/dinkeskotasemarang" target="_blank" class="fa fa-facebook"></a></li>
-                                    <li><a href="https://x.com/dkksemarang" target="_blank" class="fa fa-twitter"></a></li>
-                                    <li><a href="https://www.tiktok.com/@dkksemarang" target="_blank" class="fa fa-tiktok"></a></li>
-                                    <li><a href="https://youtube.com/@dinaskesehatankotasemarang" target="_blank" class="fa fa-youtube"></a></li>
+                                    <li><a href="https://www.instagram.com/dkksemarang" target="_blank" class="fa-brands fa-instagram"></a></li>
+                                    <li><a href="https://www.facebook.com/dinkeskotasemarang" target="_blank" class="fa-brands fa-facebook"></a></li>
+                                    <li><a href="https://x.com/dkksemarang" target="_blank" class="fa-brands fa-twitter"></a></li>
+                                    <li><a href="https://www.tiktok.com/@dkksemarang" target="_blank" class="fa-brands fa-tiktok"></a></li>
+                                    <li><a href="https://youtube.com/@dinaskesehatankotasemarang" target="_blank" class="fa-brands fa-youtube"></a></li>
                                 </ul>
                             </ul>
                         </div>
@@ -235,7 +235,7 @@
 
 
                                 <!-- LAYER NR. 1 Img -->
-                                <div class="tp-caption   tp-resizeme change-img-slider1.png" id="slide-902-layer-1" data-x="['right','right','center','center']" data-hoffset="['-200','30','0','0']" data-y="['middle','middle','bottom','bottom']" data-voffset="['-5','30','20','20']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"from":"x:right;","speed":1500,"to":"o:1;","delay":2500,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;border-width:0px;">
+                                <div class="tp-caption  tp-resizeme change-img-slider1.png" id="slide-902-layer-1" data-x="['right','right','center','center']" data-hoffset="['-200','30','0','0']" data-y="['middle','middle','bottom','bottom']" data-voffset="['-5','30','20','20']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"from":"x:right;","speed":1500,"to":"o:1;","delay":2500,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;border-width:0px;">
                                     <div>
                                         <img src="images/main-slider/slider1/d-2.png" alt="" data-ww="['1026px','700px','400px','250px']" data-hh="['832px','568px','325px','203px']" width="1026" height="832" data-no-retina>
                                     </div>
@@ -324,7 +324,7 @@
                                         <div class="about-one">
                                             <div class="wt-icon-box-wraper left bg-black m-b30">
                                                 <div class="wt-icon-box-sm site-bg-gray">
-                                                    <span class="icon-cell site-bg-dark"><i class="fa fa-user"></i></span>
+                                                    <span class="icon-cell site-bg-dark"><i class="fa-solid fa-person-pregnant"></i></span>
                                                 </div>
                                                 <div class="icon-content">
                                                     <h5 class="wt-tilte">Women Empowerment</h5>
@@ -334,7 +334,7 @@
 
                                             <div class="wt-icon-box-wraper left bg-black m-b30">
                                                 <div class="wt-icon-box-sm site-bg-gray">
-                                                    <span class="icon-cell site-bg-dark"><i class="fa fa-hospital-o"></i></span>
+                                                    <span class="icon-cell site-bg-dark"><i class="fa-solid fa-hospital"></i></span>
                                                 </div>
                                                 <div class="icon-content">
                                                     <h5 class="wt-tilte">Healthcare for Pregnant Women</h5>
@@ -344,7 +344,7 @@
 
                                             <div class="wt-icon-box-wraper left bg-black m-b30">
                                                 <div class="wt-icon-box-sm site-bg-gray">
-                                                    <span class="icon-cell site-bg-dark"><i class="fa fa-child"></i></span>
+                                                    <span class="icon-cell site-bg-dark"><i class="fa-solid fa-child"></i></span>
                                                 </div>
                                                 <div class="icon-content">
                                                     <h5 class="wt-tilte">Reduction in Maternal and Child mortality</h5>
