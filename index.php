@@ -155,16 +155,16 @@
                         <ul>
 
                             <!-- SLIDE 1 -->
-                            <li data-index="rs-901" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/main-slider/slider1/slider1.png" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="300" data-fsslotamount="7" data-saveperformance="off" data-title="Slide Title" data-param1="Additional Text" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                            <li data-index="rs-901" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/main-slider/slider1/slider1.png" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="00" data-fsslotamount="7" data-saveperformance="off" data-title="Slide Title" data-param1="Additional Text" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                 <!-- MAIN IMAGE -->
 
-                                <img src="images/main-slider/slider1/slider1.png" alt="" data-lazyload="images/main-slider/slider1/slider1.png" data-bgposition="center center" data-kenburns="on" data-duration="10000" data-ease="Power1.easeOut" data-scalestart="110" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
+                                <img src="images/main-slider/slider1/slider1.png" alt="" data-lazyload="images/main-slider/slider1/slider1.png" data-bgposition="center center" data-kenburns="on" data-ease="Power1.easeOut" data-scalestart="110" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
 
 
                                 <!-- LAYER NR. 0 [ for overlay ] -->
                                 <div class="tp-caption tp-shape tp-shapewrapper " id="slide-901-layer-0" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="full" data-height="full" data-whitespace="nowrap" data-type="shape" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[
-                                {"from":"opacity:0;","speed":1000,"to":"o:1;","delay":0,"ease":"Power4.easeOut"},
-                                {"delay":"wait","speed":1000,"to":"opacity:0;","ease":"Power4.easeOut"}
+                                {"from":"opacity:0;","speed":10,"to":"o:1;","delay":0,"ease":"Power4.easeOut"},
+                                {"delay":"wait","speed":10,"to":"opacity:0;","ease":"Power4.easeOut"}
                                 ]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 1;background-color:rgba(0, 0, 0, 0);border-color:rgba(0, 0, 0, 0);border-width:0px;">
                                 </div>
 
@@ -172,7 +172,7 @@
                                 <!-- LAYER NR. 1 Img -->
                                 <div class="tp-caption   tp-resizeme change-img-slider1.png" id="slide-901-layer-1" data-x="['right','right','center','center']" data-hoffset="['-900','-50','0','0']" data-y="['middle','middle','bottom','bottom']" data-voffset="['-5','30','20','20']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"from":"x:right;","speed":1500,"to":"o:1;","delay":2500,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;border-width:0px;">
                                     <div>
-                                        <img src="images/main-slider/slider1/bu_walii.png" alt="" data-ww="['1221px','722px','400px','250px']" data-hh="['846px','500px','277px','173px']" style="width: 150px; height: auto;" data-no-retina>
+                                        <img src="images/main-slider/slider1/bu_wali_smg.png" alt="" data-ww="['1221px','722px','400px','250px']" data-hh="['846px','500px','277px','173px']" style="width: 150px; height: auto;" data-no-retina>
                                     </div>
                                 </div>
 
@@ -180,7 +180,7 @@
                                 <!-- LAYER NR. 2 [ for title ] -->
                                 <!-- <div class="tp-caption   tp-resizeme" id="slide-901-layer-2" data-x="['left','left','center','center']" data-hoffset="[60','60','0','0']" data-y="['top','top','top','top']" data-voffset="['180','200','160','160']" data-fontsize="['34','32','28','28']" data-lineheight="['34','32','28','28']" data-width="['600','500','85%','96%']" data-height="['none','none','none','none']" data-whitespace="['normal','normal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[
                                     {"from":"y:100px(R);opacity:0;","speed":2000,"to":"o:1;","delay":1000,"ease":"Power4.easeOut"},
-                                    {"delay":"wait","speed":1000,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
+                                    {"delay":"wait","speed":10,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
                                     ]' data-textAlign="['left','left','center','center']" data-paddingtop="[5,5,5,5]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 11; 
                                     white-space: normal; 
                                     font-weight: 600;
@@ -193,7 +193,7 @@
                                 <!-- LAYER NR. 3 [ for title ] -->
                                 <div class="tp-caption   tp-resizeme" id="slide-901-layer-3" data-x="['left','left','center','center']" data-hoffset="[60','60','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-60','-20','-80','-80']" data-fontsize="['130','80','60','50']" data-lineheight="['130','80','60','50']" data-width="['700','600','85%','96%']" data-height="['none','none','none','none']" data-whitespace="['normal','normal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[
                                     {"from":"y:100px(R);opacity:0;","speed":2000,"to":"o:1;","delay":1000,"ease":"Power4.easeOut"},
-                                    {"delay":"wait","speed":1000,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
+                                    {"delay":"wait","speed":10,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
                                     ]' data-textAlign="['left','left','center','center']" data-paddingtop="[5,5,5,5]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 11; 
                                     white-space: normal; 
                                     font-weight: 700;
@@ -205,7 +205,7 @@
                                 <!-- LAYER NR. 5 [ for botton ]
                                 <div class="tp-caption tp-resizeme rev-btn" id="slide-901-layer-5" data-x="['left','left','center','center']" data-hoffset="['60','60','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['150','130','40','40']" data-lineheight="['none','none','none','none']" data-width="['300','300','300','300']" data-height="['none','none','none','none']" data-whitespace="['normal','normal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[ 
                                 {"from":"y:100px(R);opacity:0;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeOut"},
-                                {"delay":"wait","speed":1000,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
+                                {"delay":"wait","speed":10,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
                                 ]' data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index:14;">
                                     <div><a href="pricing.html" class="site-button">Ask For Price</a></div>
                                 </div> -->
@@ -223,13 +223,13 @@
                             <li data-index="rs-902" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/main-slider/slider1/slider1.png" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="300" data-fsslotamount="7" data-saveperformance="off" data-title="Slide Title" data-param1="Additional Text" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                 <!-- MAIN IMAGE -->
 
-                                <img src="images/main-slider/slider1/slider1.png" alt="" data-lazyload="images/main-slider/slider1/slider1.png" data-bgposition="center center" data-kenburns="on" data-duration="10000" data-ease="Power1.easeOut" data-scalestart="110" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
+                                <img src="images/main-slider/slider1/slider1.png" alt="" data-lazyload="images/main-slider/slider1/slider1.png" data-bgposition="center center" data-kenburns="on" data-ease="Power1.easeOut" data-scalestart="110" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
 
 
                                 <!-- LAYER NR. 0 [ for overlay ] -->
                                 <div class="tp-caption tp-shape tp-shapewrapper " id="slide-902-layer-0" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="full" data-height="full" data-whitespace="nowrap" data-type="shape" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[
-                                {"from":"opacity:0;","speed":1000,"to":"o:1;","delay":0,"ease":"Power4.easeOut"},
-                                {"delay":"wait","speed":1000,"to":"opacity:0;","ease":"Power4.easeOut"}
+                                {"from":"opacity:0;","speed":10,"to":"o:1;","delay":0,"ease":"Power4.easeOut"},
+                                {"delay":"wait","speed":10,"to":"opacity:0;","ease":"Power4.easeOut"}
                                 ]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 1;background-color:rgba(0, 0, 0, 0);border-color:rgba(0, 0, 0, 0);border-width:0px;">
                                 </div>
 
@@ -237,7 +237,7 @@
                                 <!-- LAYER NR. 1 Img -->
                                 <div class="tp-caption  tp-resizeme change-img-slider1.png" id="slide-902-layer-1" data-x="['right','right','center','center']" data-hoffset="['-700','30','0','0']" data-y="['middle','middle','bottom','bottom']" data-voffset="['-5','30','20','20']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"from":"x:right;","speed":1500,"to":"o:1;","delay":2500,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;border-width:0px;">
                                     <div>
-                                        <img src="images/main-slider/slider1/bapak_hakam.png" alt="" data-ww="['1026px','700px','400px','250px']" data-hh="['832px','568px','325px','203px']" style="width: 150px; height: auto;" data-no-retina>
+                                        <img src="images/main-slider/slider1/bapak.png" alt="" data-ww="['1026px','700px','400px','250px']" data-hh="['832px','568px','325px','203px']" style="width: 150px; height: auto;" data-no-retina>
                                     </div>
                                 </div>
 
@@ -245,7 +245,7 @@
                                 <!-- LAYER NR. 2 [ for title ] -->
                                 <!-- <div class="tp-caption   tp-resizeme" id="slide-902-layer-2" data-x="['left','left','center','center']" data-hoffset="[60','60','0','0']" data-y="['top','top','top','top']" data-voffset="['180','200','160','160']" data-fontsize="['34','32','28','28']" data-lineheight="['34','32','28','28']" data-width="['600','500','85%','96%']" data-height="['none','none','none','none']" data-whitespace="['normal','normal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[
                                     {"from":"y:100px(R);opacity:0;","speed":2000,"to":"o:1;","delay":1000,"ease":"Power4.easeOut"},
-                                    {"delay":"wait","speed":1000,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
+                                    {"delay":"wait","speed":10,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
                                     ]' data-textAlign="['left','left','center','center']" data-paddingtop="[5,5,5,5]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 11; 
                                     white-space: normal; 
                                     font-weight: 600;
@@ -258,7 +258,7 @@
                                 <!-- LAYER NR. 3 [ for title ] -->
                                 <div class="tp-caption   tp-resizeme" id="slide-902-layer-3" data-x="['left','left','center','center']" data-hoffset="[60','60','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-60','-20','-80','-80']" data-fontsize="['130','80','60','50']" data-lineheight="['130','80','60','50']" data-width="['700','600','85%','96%']" data-height="['none','none','none','none']" data-whitespace="['normal','normal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[
                                     {"from":"y:100px(R);opacity:0;","speed":2000,"to":"o:1;","delay":1000,"ease":"Power4.easeOut"},
-                                    {"delay":"wait","speed":1000,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
+                                    {"delay":"wait","speed":10,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
                                     ]' data-textAlign="['left','left','center','center']" data-paddingtop="[5,5,5,5]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 11; 
                                     white-space: normal; 
                                     font-weight: 700;
@@ -270,7 +270,7 @@
                                 <!-- LAYER NR. 5 [ for botton ] -->
                                 <!-- <div class="tp-caption tp-resizeme rev-btn" id="slide-902-layer-5" data-x="['left','left','center','center']" data-hoffset="['60','60','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['150','130','40','40']" data-lineheight="['none','none','none','none']" data-width="['300','300','300','300']" data-height="['none','none','none','none']" data-whitespace="['normal','normal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[ 
                                 {"from":"y:100px(R);opacity:0;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeOut"},
-                                {"delay":"wait","speed":1000,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
+                                {"delay":"wait","speed":10,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
                                 ]' data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index:14;">
                                     <div><a href="pricing.html" class="site-button">Ask For Price</a></div>
                                 </div> -->
@@ -434,7 +434,7 @@
                                         </div>
                                         <div class="team-social-center">
                                             <ul class="team-social-bar">
-                                                <li><a href="https://smg.city/materiiklim" target="_blank"><i class="fa fa-chrome"></i></a></li>
+                                                <li><a href="https://smg.city/materiiklim" target="_blank"><i class="fa-brands fa-chrome"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -456,7 +456,7 @@
                                         </div>
                                         <div class="team-social-center">
                                             <ul class="team-social-bar">
-                                                <li><a href="https://smg.city/materickrawalabuana" target="_blank"><i class="fa fa-chrome"></i></a></li>
+                                                <li><a href="https://smg.city/materickrawalabuana" target="_blank"><i class="fa-brands fa-chrome"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -478,7 +478,7 @@
                                         </div>
                                         <div class="team-social-center">
                                             <ul class="team-social-bar">
-                                                <li><a href="https://smg.city/materigajahmada" target="_blank"><i class="fa fa-chrome"></i></a></li>
+                                                <li><a href="https://smg.city/materigajahmada" target="_blank"><i class="fa-brands fa-chrome"></i></a></li>
 
                                             </ul>
                                         </div>
@@ -500,7 +500,7 @@
                                         </div>
                                         <div class="team-social-center">
                                             <ul class="team-social-bar">
-                                                <li><a href="https://smg.city/materivectorborne" target="_blank"><i class="fa fa-chrome"></i></a></li>
+                                                <li><a href="https://smg.city/materivectorborne" target="_blank"><i class="fa-brands fa-chrome"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
