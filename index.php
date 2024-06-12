@@ -297,12 +297,12 @@
                         <div class="section-content">
                             <div class="row justify-content-center d-flex">
 
-                                <!-- <div class="col-lg-6 col-md-12 m-b30">
+                                <div class="col-lg-6 col-md-12 m-b30">
                                     <div class="about-gym-one">
-                                        <div class="about-gym-one-media"><img src="images/bumil.jpg" alt=""></div>
+                                        <div class="about-gym-one-media"><img src="images/flyer.png" alt=""></div>
                                         <div class="outline-text">Infographic</div>
                                     </div>
-                                </div> -->
+                                </div>
 
                                 <div class="col-lg-12 col-12 col-md-12 m-b30">
                                     <div class="about-section-one-right">
@@ -316,7 +316,9 @@
                                             <h2>Outreach Service for Maternal Care and Stunted Children Semarang City</h2>
                                             <h3 style="color: blue;">SANPIISAN PROGRAM</h3>
                                             <p>
-                                                The high maternal mortality rate from year to year is one of the health problems that Semarang City must face. The peak in 2015, Semarang City became the second-highest maternal mortality rate in Central Java. In that year, the Semarang City Government was encouraged to create the innovation Sayangi Dampingi Ibu Anak Kota Semarang (Sanpiisan) / Outreach Service for Maternal Care and Stunted Children Semarang City.
+                                                This innovation is an effort to carry out synergistic handling in a macro and comprehensive way involving the Community, cross-sectors, Government, and Partners through the CONTINUUM OF CARE approach for Women of Childbearing Age, Mothers, and Children in Semarang City.
+                                                SANPIISAN ensures that Vulnerable Groups such as women and children have equal access and encourages the principle of ‘LEAVING NO ONE BEHIND’ in the context of development in the health sector.
+
                                             </p>
                                         </div>
                                         <!-- TITLE END-->
@@ -327,8 +329,8 @@
                                                     <span class="icon-cell site-bg-dark"><i class="fa-solid fa-person-pregnant"></i></span>
                                                 </div>
                                                 <div class="icon-content">
-                                                    <h5 class="wt-tilte">Women Empowerment</h5>
-                                                    <p>Improving women's empowerment in assisting pregnant women in the community.</p>
+                                                    <h5 class="wt-tilte">Pre-marital Counseling for Women</h5>
+                                                    <p>Family empowerment and welfare community, Ministry of Religion, Women’s empowerment and child protection, Population control and family planning office, Health office.</p>
                                                 </div>
                                             </div>
 
@@ -337,8 +339,8 @@
                                                     <span class="icon-cell site-bg-dark"><i class="fa-solid fa-hospital"></i></span>
                                                 </div>
                                                 <div class="icon-content">
-                                                    <h5 class="wt-tilte">Healthcare for Pregnant Women</h5>
-                                                    <p>Facilitate access to health services for pregnant women.</p>
+                                                    <h5 class="wt-tilte">Managing and organizing Health Services for Pregnant Women</h5>
+                                                    <p>Family empowerment and welfare community, community leaders, educational institutions, Indonesia employers association, health office, NGOs.</p>
                                                 </div>
                                             </div>
 
@@ -347,8 +349,8 @@
                                                     <span class="icon-cell site-bg-dark"><i class="fa-solid fa-child"></i></span>
                                                 </div>
                                                 <div class="icon-content">
-                                                    <h5 class="wt-tilte">Reduction in Maternal and Child mortality</h5>
-                                                    <p>Accelerating the reduction of maternal mortality and infant mortality in Semarang city.</p>
+                                                    <h5 class="wt-tilte">Monitoring child development</h5>
+                                                    <p>Involving the community health center, teachers, preschool, and pediatrician.</p>
                                                 </div>
                                             </div>
 
@@ -389,7 +391,7 @@
                                             <div class="sep-leaf-left"></div>
                                             <div>Profile Video</div>
                                         </div>
-                                        <h2 class="wt-title">Women Empowerment in Semarang.</h2>
+                                        <h2 class="wt-title">FROM SEMARANG WOMEN TOWARDS INDONESIA GOLDEN GENERATION.</h2>
                                         <p>The high maternal mortality rate from year to year is one of the health problems that Semarang City must face. The peak in 2015, Semarang City became the second-highest maternal mortality rate in Central Java. In that year, the Semarang City Government was encouraged to create the innovation Sayangi Dampingi Ibu Anak Kota Semarang (Sanpiisan) / Outreach Service for Maternal Care and Stunted Children Semarang City.</p>
                                     </div>
                                     <!-- <a href="our-classes.html" class="site-button site-btn-effect">Learn More</a> -->
