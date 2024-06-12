@@ -172,7 +172,7 @@
                                 <!-- LAYER NR. 1 Img -->
                                 <div class="tp-caption   tp-resizeme change-img-slider1.png" id="slide-901-layer-1" data-x="['right','right','center','center']" data-hoffset="['-800','-50','0','0']" data-y="['middle','middle','bottom','bottom']" data-voffset="['-5','30','20','20']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"from":"x:right;","speed":1500,"to":"o:1;","delay":2500,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;border-width:0px;">
                                     <div>
-                                        <img src="images/main-slider/slider1/bu_wali_smg.png" alt="" data-ww="['1221px','722px','400px']" data-hh="['846px','500px','277px']" style="width: 150px; height: auto;" data-no-retina class="mb-5">
+                                        <img src="images/main-slider/slider1/bu_wali_new.png" alt="" data-ww="['1221px','722px','400px']" data-hh="['846px','500px','277px']" style="width: 150px; height: auto;" data-no-retina class="mb-5">
                                     </div>
                                 </div>
 
