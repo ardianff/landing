@@ -528,7 +528,7 @@
                             <div class="col-xl-6 col-lg-12 col-md-12">
                                 <!-- TITLE START-->
                                 <div class="section-head left wt-small-separator-outer">
-                                    <h2>SEMARANG CITY OVERVIEW</h2>
+                                    <h2>YOUR ADVENTURE AWAITS</h2>
                                 </div>
                                 <!-- TITLE END-->
                             </div>
@@ -558,7 +558,7 @@
                                             <img src="https://visitjawatengah.jatengprov.go.id/assets/images/f496a13e-7684-4399-bd8a-0da160aa054b.jpg" alt="Foto Lawang Sewu" style="height:200px">
                                         </div>
                                         <div class="our-story-content">
-                                            <a href="https://smg.city/selayangpandang" target="_blank"><span>Overview</span></a>
+                                            <a href="https://smg.city/overviewsmg" target="_blank"><span>Overview</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -569,7 +569,7 @@
                                             <img src="https://pariwisata.semarangkota.go.id/backend/web/upload/berita/1687174029_kota-lama-semarang.jpg" alt="Foto Kota Lama" style="height:200px">
                                         </div>
                                         <div class="our-story-content">
-                                            <a href="https://smg.city/wonderfullsemarang" target="_blank"><span>Tourist</span></a>
+                                            <a href="https://smg.city/wonderfullsemarang" target="_blank"><span>Tourism</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -580,7 +580,7 @@
                                             <img src="https://semarangkota.go.id/packages/upload/galeri/2HaDTTl.jpeg" alt="Foto Balaikota" style="height:200px">
                                         </div>
                                         <div class="our-story-content">
-                                            <a href="https://semarangkota.go.id" target="_blank"><span>Government</span></a>
+                                            <a href="https://smg.city/selayangpandang" target="_blank"><span>Video</span></a>
                                         </div>
                                     </div>
                                 </div>
