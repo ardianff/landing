@@ -190,7 +190,7 @@
                                         <div class="outline-text">Infographic</div>
                                     </div>
                                 </div>
-                                <div class="col-lg-6 col-6 col-md-6 m-b30">
+                                <div class="col-lg-6 col-12 col-md-6 m-b30">
                                     <div class="about-section-one-right">
                                         <!-- TITLE START-->
                                         <div class="section-head left wt-small-separator-outer">
@@ -576,8 +576,7 @@
                                     <div class="contact-info p-a50">
                                         <!-- TITLE START-->
                                         <div class="section-head left wt-small-separator-outer">
-                                            <h3 class="wt-title">Get In Touch</h3>
-                                            <p>It is a long established fact that a reader will be by the readable of a page when looking at its layout. </p>
+                                            <h3 class="wt-title" style="color: white; text-align:center">Get In Touch</h3>
                                         </div>
                                         <!-- TITLE END-->
                                         <div class="contact-info-section">
@@ -591,7 +590,7 @@
                                             </div>
                                             <div class="c-info-column">
                                                 <span class="m-t0">Email address</span>
-                                                <p>dkksemarang@gmail.com</p>
+                                                <p>dinkes@semarangkota.go.id<br>dkksemarang@gmail.com</p>
                                             </div>
                                             <div class="c-info-column">
                                                 <span class="m-t0">Opening Hours</span>
@@ -618,21 +617,12 @@
                                                         <input name="name" type="text" required class="form-control" placeholder="Name">
                                                     </div>
                                                 </div>
-                                                <div class="col-lg-6 col-md-12">
+                                                <div class="col-lg-12 col-md-12">
                                                     <div class="form-group">
                                                         <input name="email" type="text" class="form-control" required placeholder="Email">
                                                     </div>
                                                 </div>
-                                                <div class="col-lg-6 col-md-12">
-                                                    <div class="form-group">
-                                                        <input name="phone" type="text" class="form-control" required placeholder="Phone">
-                                                    </div>
-                                                </div>
-                                                <div class="col-lg-12 col-md-12">
-                                                    <div class="form-group">
-                                                        <input name="subject" type="text" class="form-control" required placeholder="Subject">
-                                                    </div>
-                                                </div>
+
                                                 <div class="col-lg-12">
                                                     <div class="form-group">
                                                         <textarea name="message" class="form-control" rows="4" placeholder="Message"></textarea>
@@ -680,10 +670,10 @@
                             <div class="widget widget_services">
                                 <h3 class="widget-title">Useful links</h3>
                                 <ul>
-                                    <li><a href="https://kemkes.go.id/">Kementrian Kesehatan</a></li>
-                                    <li><a href="https://dinkes.jatengprov.go.id/">Dinas Kesehatan Provinsi Jawa Tengah</a></li>
-                                    <li><a href="https://semarangkota.go.id/">Pemerintah Kota Semarang</a></li>
-                                    <li><a href="https://dinkes.semarangkota.go.id/">Dinas Kesehatan Kota Semarang</a></li>
+                                    <li><a href="https://kemkes.go.id/">Ministry Of Health</a></li>
+                                    <li><a href="https://dinkes.jatengprov.go.id/">Central Java Province Health Office</a></li>
+                                    <li><a href="https://semarangkota.go.id/">Semarang City Government</a></li>
+                                    <li><a href="https://dinkes.semarangkota.go.id/">Semarang City Health Office</a></li>
                                 </ul>
                             </div>
                         </div>
