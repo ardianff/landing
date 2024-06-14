@@ -186,7 +186,7 @@
                             <div class="row justify-content-center d-flex">
                                 <div class="col-lg-6 col-md-6 m-b30">
                                     <div class="about-gym-one">
-                                        <div class="about-gym-one-media"><img src="images/flyer-new.png" alt=""></div>
+                                        <div class="about-gym-one-media"><img src="images/flyer.jpg" alt=""></div>
                                         <div class="outline-text">Infographic</div>
                                     </div>
                                 </div>
