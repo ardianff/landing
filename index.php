@@ -128,7 +128,7 @@
                                 <img src="images/main-slider/slider1/slider1.png" alt="" data-lazyload="images/main-slider/slider1/slider1.png" data-bgposition="center center" data-kenburns="on" data-ease="Power1.easeOut" data-scalestart="110" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
 
                                 <!-- LAYER NR. 1 Img -->
-                                <div class="tp-caption   tp-resizeme change-img-slider1.png" id="slide-901-layer-1" data-x="['right','right','center','center']" data-hoffset="['-800','-50','0','0']" data-y="['middle','middle','bottom','bottom']" data-voffset="['-5','30','20','20']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"from":"x:right;","speed":1500,"to":"o:1;","delay":2500,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;border-width:0px;">
+                                <div class="tp-caption   tp-resizeme change-img-slider1.png" id="slide-901-layer-1" data-x="['right','right','center','center']" data-hoffset="['-590','-50','0','0']" data-y="['middle','middle','bottom','bottom']" data-voffset="['-5','30','20','20']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"from":"x:right;","speed":1500,"to":"o:1;","delay":2500,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;border-width:0px;">
                                     <div>
                                         <img src="images/main-slider/slider1/bu_wali_new.png" alt="" data-ww="['1221px','722px','400px']" data-hh="['846px','500px','277px']" style="width: 150px; height: auto;" data-no-retina class="mb-5">
                                     </div>
@@ -153,7 +153,7 @@
                                 <img src="images/main-slider/slider1/slider1.png" alt="" data-lazyload="images/main-slider/slider1/slider1.png" data-bgposition="center center" data-kenburns="on" data-ease="Power1.easeOut" data-scalestart="110" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
 
                                 <!-- LAYER NR. 1 Img -->
-                                <div class="tp-caption  tp-resizeme change-img-slider1.png" id="slide-902-layer-1" data-x="['right','right','center','center']" data-hoffset="['-700','30','0','0']" data-y="['middle','middle','bottom','bottom']" data-voffset="['-5','30','20','20']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"from":"x:right;","speed":1500,"to":"o:1;","delay":2500,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;border-width:0px;">
+                                <div class="tp-caption  tp-resizeme change-img-slider1.png" id="slide-902-layer-1" data-x="['right','right','center','center']" data-hoffset="['-575','30','0','0']" data-y="['middle','middle','bottom','bottom']" data-voffset="['-5','30','20','20']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"from":"x:right;","speed":1500,"to":"o:1;","delay":2500,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;border-width:0px;">
                                     <div>
                                         <img src="images/main-slider/slider1/bapak_new.png" alt="" data-ww="['1026px','700px','400px']" data-hh="['832px','568px','258px']" style="width: 150px; height: auto;" data-no-retina class="mb-5">
                                     </div>
@@ -389,12 +389,12 @@
                                     </div>
                                     <div class="wt-info">
                                         <div class="team-detail">
-                                            <a href="https://smg.city/materipapandayan" target="_blank"><span class="team-position">Show More </span></a>
-                                            <h3 class="m-t0 team-name"></h3>
+                                            <!-- <a href="https://smg.city/materipapandayan" target="_blank"><span class="team-position">Show More </span></a> -->
+                                            <h3 class="m-t0 team-name">Flyer</h3>
                                         </div>
                                         <div class="team-social-center">
                                             <ul class="team-social-bar">
-                                                <li><a href="https://smg.city/materipapandayan" target="_blank"><i class="fa-brands fa-chrome"></i></a></li>
+                                                <!-- <li><a href="https://smg.city/materipapandayan" target="_blank"><i class="fa-brands fa-chrome"></i></a></li> -->
                                             </ul>
                                         </div>
                                     </div>
