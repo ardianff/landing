@@ -605,7 +605,7 @@
 
                                 <div class="col-lg-7 col-md-12 site-bg-white">
                                     <div class="contact-form-outer p-a50">
-                                        <form class="cons-contact-form" method="post" action="form-handler2.php">
+                                        <form class="cons-contact-form" method="post" action="javascript:void(0)" id="message">
                                             <!-- TITLE START-->
                                             <div class="section-head left wt-small-separator-outer">
                                                 <h3 class="wt-title m-b30">Share Your Experience</h3>
@@ -730,7 +730,74 @@
     <script src="js/rev-script-1.js"></script>
     <script type="text/javascript" src='http://maps.google.com/maps/api/js?sensor=false&libraries=places&key= AIzaSyDQk7MVFCK0C-Jr3NKGqw4FDiPWQQ8SChM'>
     </script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
     <script src="js/map.min.js"></script>
+    <script>
+        $('#message').submit(function(e) {
+            e.preventDefault();
+            var formData = new FormData(this);
+            var secret = 'eyJpdiI6ImRicHczbVRvNzllY0d5dVdHS0tZMnc9PSIsInZhbHVlIjoic0pCejlOc01UN1lDWEYvaDFiNTZpSngyakhZZnJmZ1IxUVNXK2xvYlh0WT0iLCJtYWMiOiJlYzJiZGNkMTI2ZjMzODFhMjhhMjRhYzA3MDVjNDJjMDViYjE3Y2VlZWVkZDM3MzM3MDU1MGY2MjFhMmZiNzdhIn0=';
+            var url = 'http://119.2.50.170/sendpusk/api/sanpiisan/save-message';
+            var type = 'POST';
+
+            $.ajax({
+                type: type,
+                url: url,
+                data: formData,
+                contentType: false,
+                processData: false,
+                beforeSend: function(xhr) {
+                    xhr.setRequestHeader('Authorization', 'Bearer ' + secret);
+                    Swal.fire({
+                        title: 'Please Wait...',
+                        allowOutsideClick: false,
+                        showConfirmButton: false,
+                        didOpen: () => {
+                            Swal.showLoading();
+                        }
+                    });
+                },
+                success: function(response) {
+                    Swal.close();
+                    Swal.fire({
+                        icon: 'success',
+                        title: 'Success',
+                        html: response.message,
+                        timer: 3000,
+                        showConfirmButton: false
+                    });
+                },
+                error: function(response) {
+                    Swal.close();
+                    if (response.responseJSON && response.responseJSON.errors) {
+                        var msg = response.responseJSON.message;
+                        var errorMessages = response.responseJSON.errors;
+                        var errorText = '';
+                        $.each(errorMessages, function(key, value) {
+                            errorText += value + '<br>';
+                        });
+                        Swal.fire({
+                            icon: 'error',
+                            title: msg,
+                            html: errorText,
+                            timer: 6000,
+                            showConfirmButton: true
+                        });
+                    } else {
+                        Swal.fire({
+                            icon: 'error',
+                            title: 'Error',
+                            text: 'An error occurred. Please try again later.',
+                            timer: 6000,
+                            showConfirmButton: true
+                        });
+                    }
+                }
+            });
+        });
+    </script>
+
 
 </body>
 
